@@ -1,0 +1,14 @@
+uuid: 60e08bee-1338-4044-ad3f-82794726aee3
+name: 'Test sylvain 1'
+mail: sylvainmichel@live.fr
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
